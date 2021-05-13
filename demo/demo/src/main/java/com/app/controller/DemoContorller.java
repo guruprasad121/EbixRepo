@@ -5,5 +5,8 @@ public class DemoContorller {
 	void print() {
 
 	}
+	void Test() {
+
+	}
 
 }
